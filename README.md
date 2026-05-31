@@ -12,7 +12,7 @@ A turn-based RPG game developed in Java using Object-Oriented Programming princi
 ## Technologies Used
 - Java
 - OOP Concepts
-- File Handling
+  
 
 ## Contributors
 - Amna Mirza
